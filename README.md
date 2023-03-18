@@ -1,6 +1,7 @@
 ###  Hola 👋 Soy Christopher Javier Perez
 
-## ingeniero en sistemas informaticos y programador fulstack
+## ingeniero en sistemas informaticos y programador fullstack
+
 <!--
 **christoperez10/christoperez10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
